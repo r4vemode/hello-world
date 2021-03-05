@@ -1,3 +1,2 @@
-import tests
+import werwer	 
 
-print()
